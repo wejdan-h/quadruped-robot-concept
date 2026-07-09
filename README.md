@@ -19,3 +19,7 @@ This repository contains the initial mechanical concept of a four-legged robot. 
 ## Software
 
 - Autodesk Fusion 360
+
+## Preview
+
+![Quadruped Robot](Images/robot_preview.png)
