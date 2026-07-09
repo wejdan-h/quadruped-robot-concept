@@ -19,12 +19,3 @@ This repository contains the initial mechanical concept of a four-legged robot. 
 ## Software
 
 - Autodesk Fusion 360
-
-```
-CAD/
-Robot_Model.stl
-Robot_Model.f3d
-
-Documentation/
-README.md
-
