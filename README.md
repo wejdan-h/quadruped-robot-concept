@@ -22,4 +22,4 @@ This repository contains the initial mechanical concept of a four-legged robot. 
 
 ## Preview
 
-![Quadruped Robot](robot_preview.png)
+![Quadruped Robot](Mechanical_Design/robot_preview.png)
